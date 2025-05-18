@@ -33,8 +33,9 @@ ChitChat is a **modern real-time chat application** built with **Vue 3**, **Type
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=elixir" height="40" alt="elixir logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" height="40" alt="phoenix logo"  />
-
 </div>
 
 ###
